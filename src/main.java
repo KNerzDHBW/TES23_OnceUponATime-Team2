@@ -42,6 +42,7 @@ public class main {
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
         System.out.println("Rotkäppchen war aber leider schizophren.");
 
+
         /*
          * Viertes Kapitel
          */

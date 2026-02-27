@@ -62,6 +62,7 @@ public class main {
         System.out.println();
         System.out.println("Es war einmal ein Koenigreich, in dem war seit einem Jahr die ");
         System.out.println("Sonne nicht mehr aufgegangen.");
+        Systemm.out.println("Die Menschen lebten im fahlen Schein von Kerzen und Laternen");
         System.out.println();
     }
 }

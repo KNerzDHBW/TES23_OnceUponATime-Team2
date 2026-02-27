@@ -17,8 +17,8 @@ public class main {
         System.out.println();
 
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
-        System.out.println("zusammen in einem Subslot am Rande eines verwunschenen Waldes.");
-        System.out.println();
+        System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
+        System.out.println("In diesem Wald lebt auch ein böses Monster");
 
         /*
          * Zweites Kapitel
@@ -29,6 +29,7 @@ public class main {
         System.out.println("Vor langer Zeit gab es einmal einen magischen See, der war so ");
         System.out.println("besonders, dass er nur von denjenigen gefunden werden konnte, ");
         System.out.println("von denen der See sich finden lassen wollte.");
+        System.out.println("Bekannt war dieser See dennoch.");
         System.out.println();
 
         /*
@@ -40,7 +41,7 @@ public class main {
 
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
-        System.out.println();
+        System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter");
 
         /*
          * Viertes Kapitel
@@ -62,6 +63,7 @@ public class main {
         System.out.println();
         System.out.println("Es war einmal ein Koenigreich, in dem war seit einem Jahr die ");
         System.out.println("Sonne nicht mehr aufgegangen.");
+        Systemm.out.println("Die Menschen lebten im fahlen Schein von Kerzen und Laternen");
         System.out.println();
     }
 }

@@ -13,11 +13,11 @@ public class main {
          * Erstes Kapitel
          */
         System.out.println();
-        System.out.println("Die Maus, der Vogel und die Bratwurst");
+        System.out.println("Die Maus, der Vogel und die vegane Bratwurst");
         System.out.println();
 
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
-        System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
+        System.out.println("zusammen in einem Subslot am Rande eines verwunschenen Waldes.");
         System.out.println();
 
         /*

@@ -52,7 +52,7 @@ public class main {
         System.out.println("Es lebte einmal in einem weit entfernten Land ein Koenig und ");
         System.out.println("eine Koenigin, die wuenschten sich nichts sehnlicher als nicht ");
         System.out.println("mehr Koenig und Koenigin sein zu muessen.");
-        System.out.println();
+        System.out.println("Sie träumten davon endlich mal stressfrei in den Urlaub fliegen zu können und zwar dorthin wo sein Großvater einmal lebte.");
 
         /*
          * Fünftes Kapitel

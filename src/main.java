@@ -23,6 +23,7 @@ public class main {
         System.out.println("Der Vogel war ein Frühaufsteher");
         System.out.println();
         System.out.println("In diesem Wald lebt auch ein böses Monster");
+        System.out.println("In diesem Wald lebt auch ein böses Monster, das liebend gerne Bratwurst mit Sauerkraut zum Frühstück.");
 
         /*
          * Zweites Kapitel

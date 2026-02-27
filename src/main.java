@@ -18,7 +18,7 @@ public class main {
 
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
         System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
-        System.out.println("In diesem Wald lebt auch ein böses Monster");
+        System.out.println("In diesem Wald lebt auch ein böses Monster, das liebend gerne Bratwurst mit Sauerkraut zum Frühstück.");
 
         /*
          * Zweites Kapitel
@@ -42,8 +42,9 @@ public class main {
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
         System.out.println("Es hatte Sommersprossen auf den Wangen und ging gerne mit ihrem Körbchen im Wald spazieren.");
+        System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter, die tief im Wald in einem kleinen Haus lebt.");
+        System.out.println("Rotkäppchen war aber leider schizophren.");
         System.out.println();
-        System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter");
 
         /*
          * Viertes Kapitel
@@ -65,6 +66,7 @@ public class main {
         System.out.println();
         System.out.println("Es war einmal ein Koenigreich, in dem war seit einem Jahr die ");
         System.out.println("Sonne nicht mehr aufgegangen.");
+        System.out.println("");
         Systemm.out.println("Die Menschen lebten im fahlen Schein von Kerzen und Laternen");
         System.out.println();
     }

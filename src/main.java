@@ -32,6 +32,7 @@ public class main {
         System.out.println("Vor langer Zeit gab es einmal einen magischen See, der war so ");
         System.out.println("besonders, dass er nur von denjenigen gefunden werden konnte, ");
         System.out.println("von denen der See sich finden lassen wollte.");
+        System.out.println("Der Prinz war Schitzophren und dachte er sei auch der Frosch");
         System.out.println();
 
         /*

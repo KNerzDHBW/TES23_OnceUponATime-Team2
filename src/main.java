@@ -41,6 +41,7 @@ public class main {
 
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
+        System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter, die tief im Wald in einem kleinen Haus lebt.");
         System.out.println("Rotkäppchen war aber leider schizophren.");
 
 

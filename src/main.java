@@ -1,4 +1,6 @@
 
+
+
 public class main {
 
     public static void main(String[] args) {
@@ -18,6 +20,9 @@ public class main {
 
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
         System.out.println("zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes.");
+        System.out.println("Der Vogel war ein Frühaufsteher");
+        System.out.println();
+        System.out.println("In diesem Wald lebt auch ein böses Monster");
         System.out.println("In diesem Wald lebt auch ein böses Monster, das liebend gerne Bratwurst mit Sauerkraut zum Frühstück.");
 
         /*

@@ -42,9 +42,17 @@ public class main {
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
         System.out.println("Es hatte Sommersprossen auf den Wangen und ging gerne mit ihrem Körbchen im Wald spazieren.");
+<<<<<<< HEAD
         System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter, die tief im Wald in einem kleinen Haus lebt.");
         System.out.println("Rotkäppchen war aber leider schizophren.");
         System.out.println();
+=======
+        System.out.println();
+        System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter");
+        System.out.println("Rotkaeppchen besucht ihre kranke Grossmutter, die tief im Wald in einem kleinen Haus lebt.");
+        System.out.println("Rotkäppchen war aber leider schizophren.");
+
+>>>>>>> 41b6929dab60bbac44d7c475434fbdc051023aae
 
         /*
          * Viertes Kapitel

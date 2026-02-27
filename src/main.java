@@ -13,7 +13,7 @@ public class main {
          * Erstes Kapitel
          */
         System.out.println();
-        System.out.println("Die Maus, der Vogel und die Bratwurst");
+        System.out.println("Die Maus, der Vogel und die vegane Bratwurst");
         System.out.println();
 
         System.out.println("Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten ");
@@ -28,7 +28,7 @@ public class main {
         System.out.println();
         System.out.println("Vor langer Zeit gab es einmal einen magischen See, der war so ");
         System.out.println("besonders, dass er nur von denjenigen gefunden werden konnte, ");
-        System.out.println("von denen der See sich finden lassen wollte.");
+        System.out.println("von denen der Efkes sich finden lassen wollte.");
         System.out.println("Bekannt war dieser See dennoch.");
         System.out.println();
 

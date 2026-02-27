@@ -40,7 +40,7 @@ public class main {
 
         System.out.println("Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle ");
         System.out.println("Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen.");
-        System.out.println();
+        System.out.println("Rotkäppchen war aber leider schizophren.");
 
         /*
          * Viertes Kapitel
@@ -62,6 +62,6 @@ public class main {
         System.out.println();
         System.out.println("Es war einmal ein Koenigreich, in dem war seit einem Jahr die ");
         System.out.println("Sonne nicht mehr aufgegangen.");
-        System.out.println();
+        System.out.println("");
     }
 }
